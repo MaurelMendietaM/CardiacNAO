@@ -1,0 +1,40 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 113, 'diastolic': 75};2020-02-28 16:55:00.053000
+StartRecording;None;None;2020-02-28 16:55:00.958000
+RobotWelcome;Start;WelcomeSentence;2020-02-28 16:55:19.957000
+Motivation;Timeout;None;2020-02-28 16:55:35.095000
+BorgRequest;Timeout;none;2020-02-28 16:55:35.574000
+BorgReceive;Clicked;6;2020-02-28 16:55:39.791000
+RequestLook;None;None;2020-02-28 16:58:03.015000
+RequestLook;None;None;2020-02-28 16:59:12.794000
+Alert1;HighHr;None;2020-02-28 17:00:36.447000
+Motivation;Timeout;None;2020-02-28 17:00:41.622000
+RequestLook;None;None;2020-02-28 17:00:53.722000
+BorgRequest;Timeout;none;2020-02-28 17:02:39.194000
+BorgReceive;Clicked;10;2020-02-28 17:02:46.142000
+RequestLook;None;None;2020-02-28 17:02:52.111000
+Alert1;HighHr;None;2020-02-28 17:03:55.293000
+RequestLook;None;None;2020-02-28 17:04:08.628000
+Motivation;Timeout;None;2020-02-28 17:05:45.863000
+Alert1;HighHr;None;2020-02-28 17:06:33.648000
+RequestLook;None;None;2020-02-28 17:06:40.434000
+Alert1;HighHr;None;2020-02-28 17:09:25.036000
+RequestLook;None;None;2020-02-28 17:09:30.265000
+BorgRequest;Timeout;none;2020-02-28 17:09:42.813000
+BorgReceive;Clicked;13;2020-02-28 17:09:47.609000
+alarm_fatigue;timeout;none;2020-02-28 17:09:48.596000
+Motivation;Timeout;None;2020-02-28 17:10:47.075000
+RequestLook;None;None;2020-02-28 17:11:04.789000
+Alert1;HighHr;None;2020-02-28 17:12:22.755000
+Alert2;HighHr;none;2020-02-28 17:12:35.133000
+Alert2;HighHr;none;2020-02-28 17:13:03.252000
+RequestLook;None;None;2020-02-28 17:13:10.339000
+RequestLook;None;None;2020-02-28 17:14:30.978000
+Cooldown;None;None;2020-02-28 17:14:41.187000
+Alert2;HighHr;none;2020-02-28 17:14:53.669000
+EndRecording;None;None;2020-02-28 17:35:41.558000
+BloodPressure;final;{'systolic': 110, 'diastolic': 70};2020-02-28 17:36:04.343000
+Questions;None;{'satisfaction': 9, 'motivation': 9};2020-02-28 17:36:07.863000
+average;speed;0.305592557785901;2020-02-28 17:36:33.891000
+average;hr;97.44020887728442;2020-02-28 17:36:33.916000
+average;inclination;2.5104438642297575;2020-02-28 17:36:33.917000

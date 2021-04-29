@@ -1,0 +1,11 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 120, 'diastolic': 80};2020-03-05 10:44:39.124000
+StartRecording;None;None;2020-03-05 10:44:41.504000
+RequestLook;None;None;2020-03-05 10:46:27.151000
+Cooldown;None;None;2020-03-05 11:05:01.457000
+EndRecording;None;None;2020-03-05 11:26:26.483000
+BloodPressure;final;{'systolic': 100, 'diastolic': 70};2020-03-05 11:26:37.883000
+Questions;None;{'satisfaction': 9, 'motivation': 9};2020-03-05 11:26:40.609000
+average;speed;0.3648244468058647;2020-03-05 11:26:42.656000
+average;hr;71.665037760995;2020-03-05 11:26:42.656000
+average;inclination;2.5008884940026617;2020-03-05 11:26:42.656000

@@ -1,0 +1,43 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 140, 'diastolic': 80};2020-03-13 11:50:07.896000
+StartRecording;None;None;2020-03-13 11:50:11.201000
+RobotWelcome;Start;WelcomeSentence;2020-03-13 11:50:50.576000
+Motivation;Timeout;None;2020-03-13 11:51:05.938000
+BorgRequest;Timeout;none;2020-03-13 11:51:06.270000
+BorgReceive;Clicked;6;2020-03-13 11:51:25.529000
+RequestLook;None;None;2020-03-13 11:52:34.870000
+RequestLook;None;None;2020-03-13 11:53:33.670000
+RequestLook;None;None;2020-03-13 11:54:31.593000
+RequestLook;None;None;2020-03-13 11:55:29.706000
+Motivation;Timeout;None;2020-03-13 11:56:06.114000
+RequestLook;None;None;2020-03-13 11:56:27.204000
+RequestLook;None;None;2020-03-13 11:57:26.252000
+BorgRequest;Timeout;none;2020-03-13 11:58:09.660000
+BorgReceive;Clicked;8;2020-03-13 11:58:12.467000
+RequestLook;None;None;2020-03-13 11:58:24.429000
+RequestLook;None;None;2020-03-13 11:59:22.721000
+RequestLook;None;None;2020-03-13 12:00:20.702000
+Motivation;Timeout;None;2020-03-13 12:01:07.906000
+RequestLook;None;None;2020-03-13 12:01:18.232000
+RequestLook;None;None;2020-03-13 12:02:16.895000
+RequestLook;None;None;2020-03-13 12:03:14.551000
+RequestLook;None;None;2020-03-13 12:04:11.541000
+RequestLook;None;None;2020-03-13 12:05:09.268000
+BorgRequest;Timeout;none;2020-03-13 12:05:12.762000
+BorgReceive;Clicked;8;2020-03-13 12:05:15.607000
+RequestLook;None;None;2020-03-13 12:06:06.595000
+Motivation;Timeout;None;2020-03-13 12:06:08.887000
+RequestLook;None;None;2020-03-13 12:07:03.923000
+RequestLook;None;None;2020-03-13 12:08:01.366000
+RequestLook;None;None;2020-03-13 12:08:58.439000
+Alert1;HighHr;None;2020-03-13 12:09:41.470000
+RequestLook;None;None;2020-03-13 12:09:57.026000
+RequestLook;None;None;2020-03-13 12:10:54.599000
+Motivation;Timeout;None;2020-03-13 12:11:08.903000
+Cooldown;None;None;2020-03-13 12:11:52.443000
+EndRecording;None;None;2020-03-13 12:31:00.982000
+BloodPressure;final;{'systolic': 140, 'diastolic': 82};2020-03-13 12:31:13.794000
+Questions;None;{'satisfaction': 9, 'motivation': 9};2020-03-13 12:31:16.912000
+average;speed;0.30507401072018797;2020-03-13 12:31:52.147000
+average;hr;102.05608028335283;2020-03-13 12:31:52.147000
+average;inclination;2.5088547815820443;2020-03-13 12:31:52.147000

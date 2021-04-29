@@ -1,0 +1,12 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 90, 'diastolic': 60};2020-02-18 07:26:09.621000
+StartRecording;None;None;2020-02-18 07:26:11.387000
+RobotWelcome;Start;WelcomeSentence;2020-02-18 07:26:25.790000
+Cooldown;None;None;2020-02-18 07:26:33.024000
+EndRecording;None;None;2020-02-18 07:26:35.064000
+BloodPressure;final;{'systolic': 90, 'diastolic': 60};2020-02-18 07:26:42.648000
+Questions;None;{'satisfaction': 9, 'motivation': 9};2020-02-18 07:26:43.867000
+Motivation;Timeout;None;2020-02-18 07:26:44.742000
+average;speed;0.03522998769230769;2020-02-18 07:26:44.804000
+average;hr;117.15384615384613;2020-02-18 07:26:44.812000
+average;inclination;2.807692307692308;2020-02-18 07:26:44.814000

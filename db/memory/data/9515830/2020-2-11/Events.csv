@@ -1,0 +1,39 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 100, 'diastolic': 60};2020-02-11 07:47:26.417000
+StartRecording;None;None;2020-02-11 07:47:28.558000
+RobotWelcome;Start;WelcomeSentence;2020-02-11 07:47:47.548000
+Motivation;Timeout;None;2020-02-11 07:48:04.659000
+BorgRequest;Timeout;none;2020-02-11 07:48:05.060000
+BorgReceive;Clicked;6;2020-02-11 07:48:09.302000
+Alert1;HighHr;None;2020-02-11 07:48:59.313000
+Alert1;HighHr;None;2020-02-11 07:51:14.330000
+Motivation;Timeout;None;2020-02-11 07:53:09.419000
+Alert1;HighHr;None;2020-02-11 07:53:25.102000
+BorgRequest;Timeout;none;2020-02-11 07:55:08.495000
+BorgReceive;Clicked;9;2020-02-11 07:55:14.447000
+Alert1;HighHr;None;2020-02-11 07:55:38.660000
+Alert1;HighHr;None;2020-02-11 07:57:35.836000
+Motivation;Timeout;None;2020-02-11 07:58:09.422000
+Alert1;HighHr;None;2020-02-11 07:59:37.982000
+Alert1;HighHr;None;2020-02-11 08:01:35.987000
+BorgRequest;Timeout;none;2020-02-11 08:02:13.103000
+BorgReceive;Clicked;10;2020-02-11 08:02:17.258000
+Motivation;Timeout;None;2020-02-11 08:03:11.480000
+Alert1;HighHr;None;2020-02-11 08:03:32.007000
+Alert1;HighHr;None;2020-02-11 08:05:32.081000
+Alert2;HighHr;none;2020-02-11 08:06:57.702000
+Cooldown;None;None;2020-02-11 08:07:46.831000
+Motivation;Timeout;None;2020-02-11 08:08:12.966000
+BorgRequest;Timeout;none;2020-02-11 08:09:16.371000
+Motivation;Timeout;None;2020-02-11 08:13:14.283000
+BorgRequest;Timeout;none;2020-02-11 08:16:20.801000
+Motivation;Timeout;None;2020-02-11 08:18:16.649000
+Motivation;Timeout;None;2020-02-11 08:23:16.651000
+BorgRequest;Timeout;none;2020-02-11 08:23:23.712000
+BorgReceive;Clicked;10;2020-02-11 08:24:40.739000
+EndRecording;None;None;2020-02-11 08:24:43.113000
+BloodPressure;final;{'systolic': 125, 'diastolic': 80};2020-02-11 08:25:21.645000
+Questions;None;{'satisfaction': 9, 'motivation': 9};2020-02-11 08:25:26.831000
+average;speed;0.5704798430084103;2020-02-11 08:26:32.221000
+average;hr;100.09797130133596;2020-02-11 08:26:32.221000
+average;inclination;2.5049480455220188;2020-02-11 08:26:32.221000

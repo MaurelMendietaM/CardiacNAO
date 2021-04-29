@@ -1,0 +1,38 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 120, 'diastolic': 70};2020-03-10 09:52:49.253000
+StartRecording;None;None;2020-03-10 09:52:51.097000
+RobotWelcome;Start;WelcomeSentence;2020-03-10 09:53:09.730000
+Motivation;Timeout;None;2020-03-10 09:53:25.172000
+BorgRequest;Timeout;none;2020-03-10 09:53:25.435000
+BorgReceive;Clicked;6;2020-03-10 09:53:29.661000
+RequestLook;None;None;2020-03-10 09:54:22.579000
+RequestLook;None;None;2020-03-10 09:55:22.049000
+RequestLook;None;None;2020-03-10 09:56:28.439000
+RequestLook;None;None;2020-03-10 09:57:43.589000
+Motivation;Timeout;None;2020-03-10 09:58:25.177000
+RequestLook;None;None;2020-03-10 09:58:59.895000
+RequestLook;None;None;2020-03-10 10:00:11.026000
+BorgRequest;Timeout;none;2020-03-10 10:00:29.557000
+BorgReceive;Clicked;8;2020-03-10 10:00:34.052000
+RequestLook;None;None;2020-03-10 10:01:17.238000
+RequestLook;None;None;2020-03-10 10:02:18.675000
+RequestLook;None;None;2020-03-10 10:03:16.920000
+Motivation;Timeout;None;2020-03-10 10:03:26.978000
+RequestLook;None;None;2020-03-10 10:04:31.606000
+RequestLook;None;None;2020-03-10 10:05:37.688000
+RequestLook;None;None;2020-03-10 10:06:48.087000
+BorgRequest;Timeout;none;2020-03-10 10:07:31.187000
+BorgReceive;Clicked;10;2020-03-10 10:07:36.939000
+RequestLook;None;None;2020-03-10 10:07:46.147000
+Motivation;Timeout;None;2020-03-10 10:08:29.200000
+RequestLook;None;None;2020-03-10 10:08:53.343000
+RequestLook;None;None;2020-03-10 10:10:07.482000
+RequestLook;None;None;2020-03-10 10:11:07.394000
+RequestLook;None;None;2020-03-10 10:12:05.192000
+Cooldown;None;None;2020-03-10 10:12:10.591000
+EndRecording;None;None;2020-03-10 10:34:01.171000
+BloodPressure;final;{'systolic': 100, 'diastolic': 70};2020-03-10 10:34:29.818000
+Questions;None;{'satisfaction': 8, 'motivation': 8};2020-03-10 10:34:32.692000
+average;speed;0.30905052661190874;2020-03-10 10:34:34.567000
+average;hr;89.50718685831585;2020-03-10 10:34:34.567000
+average;inclination;2.509240246406565;2020-03-10 10:34:34.567000

@@ -1,0 +1,41 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 140, 'diastolic': 85};2020-02-18 07:44:51.908000
+StartRecording;None;None;2020-02-18 07:44:54.391000
+RobotWelcome;Start;WelcomeSentence;2020-02-18 07:45:13.970000
+Motivation;Timeout;None;2020-02-18 07:45:29.523000
+BorgRequest;Timeout;none;2020-02-18 07:45:29.824000
+BorgReceive;Clicked;6;2020-02-18 07:45:33.249000
+RequestLook;None;None;2020-02-18 07:46:21.700000
+RequestLook;None;None;2020-02-18 07:47:19.885000
+Alert1;HighHr;None;2020-02-18 07:50:04.810000
+RequestLook;None;None;2020-02-18 07:50:17.157000
+Motivation;Timeout;None;2020-02-18 07:50:29.543000
+Alert1;HighHr;None;2020-02-18 07:52:19.115000
+BorgRequest;Timeout;none;2020-02-18 07:52:32.927000
+BorgReceive;Clicked;10;2020-02-18 07:52:38.610000
+Alert1;HighHr;None;2020-02-18 07:54:32.367000
+Motivation;Timeout;None;2020-02-18 07:55:31.604000
+Alert1;HighHr;None;2020-02-18 07:56:44.603000
+Alert1;HighHr;None;2020-02-18 07:59:01.890000
+BorgRequest;Timeout;none;2020-02-18 07:59:36.013000
+BorgReceive;Clicked;11;2020-02-18 07:59:41.542000
+Motivation;Timeout;None;2020-02-18 08:00:32.833000
+Alert1;HighHr;None;2020-02-18 08:01:16.248000
+Alert2;HighHr;none;2020-02-18 08:01:30.685000
+Cooldown;None;None;2020-02-18 08:05:04.149000
+Motivation;Timeout;None;2020-02-18 08:05:34.640000
+BorgRequest;Timeout;none;2020-02-18 08:06:40.031000
+Motivation;Timeout;None;2020-02-18 08:10:36.021000
+BorgRequest;Timeout;none;2020-02-18 08:13:43.102000
+Motivation;Timeout;None;2020-02-18 08:15:36.022000
+Motivation;Timeout;None;2020-02-18 08:20:38.397000
+BorgRequest;Timeout;none;2020-02-18 08:20:46.395000
+Motivation;Timeout;None;2020-02-18 08:25:39.229000
+BorgRequest;Timeout;none;2020-02-18 08:27:50.722000
+Motivation;Timeout;None;2020-02-18 08:30:41.036000
+EndRecording;None;None;2020-02-18 08:32:30.594000
+BloodPressure;final;{'systolic': 120, 'diastolic': 90};2020-02-18 08:32:51.516000
+Questions;None;{'satisfaction': 9, 'motivation': 9};2020-02-18 08:32:55.093000
+average;speed;0.39721406085443;2020-02-18 08:33:26.508000
+average;hr;99.18710443037955;2020-02-18 08:33:26.523000
+average;inclination;2.4960443037974644;2020-02-18 08:33:26.523000

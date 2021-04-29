@@ -1,0 +1,7 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 120, 'diastolic': 70};2020-02-14 13:09:21.439000
+StartRecording;None;None;2020-02-14 13:09:23.157000
+RobotWelcome;Start;WelcomeSentence;2020-02-14 13:09:56.917000
+Motivation;Timeout;None;2020-02-14 13:10:12.125000
+BorgRequest;Timeout;none;2020-02-14 13:10:12.256000
+BorgReceive;Clicked;7;2020-02-14 13:10:17.501000

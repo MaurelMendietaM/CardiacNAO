@@ -1,0 +1,54 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 100, 'diastolic': 70};2020-02-07 07:55:44.362000
+StartRecording;None;None;2020-02-07 07:55:45.436000
+RobotWelcome;Start;WelcomeSentence;2020-02-07 07:56:11.439000
+Motivation;Timeout;None;2020-02-07 07:56:26.733000
+BorgRequest;Timeout;none;2020-02-07 07:56:26.787000
+BorgReceive;Clicked;7;2020-02-07 07:56:29.151000
+Alert2;HighHr;none;2020-02-07 07:56:40.394000
+Alert2;HighHr;none;2020-02-07 07:56:56.319000
+RequestLook;None;None;2020-02-07 07:57:10.557000
+Alert2;HighHr;none;2020-02-07 07:57:12.133000
+RequestLook;None;None;2020-02-07 07:58:23.420000
+Alert2;HighHr;none;2020-02-07 07:59:19.908000
+Alert2;HighHr;none;2020-02-07 07:59:36.622000
+Alert2;HighHr;none;2020-02-07 07:59:51.024000
+RequestLook;None;None;2020-02-07 07:59:56.094000
+Alert2;HighHr;none;2020-02-07 08:00:50.662000
+Alert2;HighHr;none;2020-02-07 08:01:05.401000
+Alert2;HighHr;none;2020-02-07 08:01:21.154000
+Motivation;Timeout;None;2020-02-07 08:01:32.556000
+Alert2;HighHr;none;2020-02-07 08:02:12.259000
+Alert2;HighHr;none;2020-02-07 08:02:27.405000
+Alert2;HighHr;none;2020-02-07 08:02:41.964000
+Alert2;HighHr;none;2020-02-07 08:03:30.476000
+BorgRequest;Timeout;none;2020-02-07 08:03:30.677000
+BorgReceive;Clicked;8;2020-02-07 08:03:33.009000
+Alert2;HighHr;none;2020-02-07 08:03:48.618000
+Alert2;HighHr;none;2020-02-07 08:04:04.909000
+Alert2;HighHr;none;2020-02-07 08:04:55.618000
+Alert2;HighHr;none;2020-02-07 08:05:10.685000
+Alert2;HighHr;none;2020-02-07 08:05:25.583000
+Alert2;HighHr;none;2020-02-07 08:06:14.267000
+Alert2;HighHr;none;2020-02-07 08:06:29.468000
+Motivation;Timeout;None;2020-02-07 08:06:34.944000
+Alert2;HighHr;none;2020-02-07 08:06:45.868000
+Alert2;HighHr;none;2020-02-07 08:07:35.058000
+Alert2;HighHr;none;2020-02-07 08:07:49.872000
+Alert2;HighHr;none;2020-02-07 08:08:05.413000
+Cooldown;None;None;2020-02-07 08:08:38.572000
+Alert2;HighHr;none;2020-02-07 08:10:50.078000
+Alert2;HighHr;none;2020-02-07 08:11:05.888000
+Alert2;HighHr;none;2020-02-07 08:11:23.093000
+Alert2;HighHr;none;2020-02-07 08:12:12.492000
+Alert2;HighHr;none;2020-02-07 08:12:31.153000
+Alert2;HighHr;none;2020-02-07 08:12:47.057000
+Alert2;HighHr;none;2020-02-07 08:17:15.941000
+Alert2;HighHr;none;2020-02-07 08:17:31.323000
+Alert2;HighHr;none;2020-02-07 08:17:46.892000
+EndRecording;None;None;2020-02-07 08:28:20.855000
+BloodPressure;final;{'systolic': 100, 'diastolic': 70};2020-02-07 08:28:42.590000
+Questions;None;{'satisfaction': 9, 'motivation': 9};2020-02-07 08:28:45.375000
+average;speed;0.0604057083690985;2020-02-07 08:29:14.900000
+average;hr;101.03701716738209;2020-02-07 08:29:14.918000
+average;inclination;2.5155579399141628;2020-02-07 08:29:14.924000

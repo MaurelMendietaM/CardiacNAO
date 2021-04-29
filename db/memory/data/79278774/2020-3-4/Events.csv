@@ -1,0 +1,40 @@
+Type;Cause;value;Timestamp
+BloodPressure;initial;{'systolic': 130, 'diastolic': 80};2020-03-04 11:45:42.377000
+StartRecording;None;None;2020-03-04 11:45:44.715000
+RobotWelcome;Start;WelcomeSentence;2020-03-04 11:46:21.712000
+Motivation;Timeout;None;2020-03-04 11:46:37.510000
+BorgRequest;Timeout;none;2020-03-04 11:46:38.002000
+BorgReceive;Clicked;6;2020-03-04 11:46:40.056000
+RequestLook;None;None;2020-03-04 11:47:03.563000
+RequestLook;None;None;2020-03-04 11:48:44.012000
+RequestLook;None;None;2020-03-04 11:50:10.406000
+Motivation;Timeout;None;2020-03-04 11:51:42.734000
+RequestLook;None;None;2020-03-04 11:51:43.041000
+RequestLook;None;None;2020-03-04 11:52:45.001000
+BorgRequest;Timeout;none;2020-03-04 11:53:40.632000
+RequestLook;None;None;2020-03-04 11:53:42.293000
+BorgReceive;Clicked;6;2020-03-04 11:53:42.718000
+RequestLook;None;None;2020-03-04 11:54:43.171000
+Alert1;HighHr;None;2020-03-04 11:55:24.318000
+RequestLook;None;None;2020-03-04 11:56:04.007000
+Motivation;Timeout;None;2020-03-04 11:56:45.350000
+Alert1;HighHr;None;2020-03-04 11:57:19.833000
+RequestLook;None;None;2020-03-04 11:57:32.008000
+RequestLook;None;None;2020-03-04 11:58:45.863000
+Alert1;HighHr;None;2020-03-04 11:59:14.173000
+RequestLook;None;None;2020-03-04 11:59:56.293000
+BorgRequest;Timeout;none;2020-03-04 12:00:43.938000
+BorgReceive;Clicked;8;2020-03-04 12:00:46.919000
+RequestLook;None;None;2020-03-04 12:01:01.239000
+Alert1;HighHr;None;2020-03-04 12:01:08.169000
+Motivation;Timeout;None;2020-03-04 12:01:45.365000
+RequestLook;None;None;2020-03-04 12:02:17.208000
+Alert1;HighHr;None;2020-03-04 12:03:03.642000
+RequestLook;None;None;2020-03-04 12:03:27.183000
+Cooldown;None;None;2020-03-04 12:04:03.536000
+EndRecording;None;None;2020-03-04 12:25:14.150000
+BloodPressure;final;{'systolic': 115, 'diastolic': 78};2020-03-04 12:25:32.158000
+Questions;None;{'satisfaction': 9, 'motivation': 9};2020-03-04 12:25:34.630000
+average;speed;0.504616677518698;2020-03-04 12:25:35.909000
+average;hr;101.88913330400375;2020-03-04 12:25:35.910000
+average;inclination;2.4947206335239738;2020-03-04 12:25:35.911000
